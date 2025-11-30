@@ -13,12 +13,6 @@ Los contenedores garantizan portabilidad, consistencia en el ambiente de desarro
 
 ## 4. Conocimientos previos  
 
-Para realizar la práctica se requieren conocimientos en:
-
-Sistemas operativos (Windows o Linux) y línea de comandos.
-
-Fundamentos de redes (IP, puertos).
-
 Conceptos básicos de bases de datos y SQL.
 
 Conceptos de contenedores y Docker: imágenes, contenedores, volúmenes y Docker Compose.
@@ -41,21 +35,16 @@ Validar la correcta comunicación entre servicios en contenedores y el entorno l
 
 Docker Desktop instalado y funcionando.
 
-Conexión a Internet para descargar imágenes de Docker.
-
 Editor de texto (Notepad, VS Code, Sublime Text, etc.).
 
-Navegador web (Chrome, Firefox, Edge).
 
 ## 7. Material de apoyo  
 
 Proyecto base: https://github.com/maguaman2/tendencias-mar22-security.git
 
+Tutoriales en youtube
+
 Documentación oficial de Docker: https://docs.docker.com/
-
-Documentación de PostgreSQL: https://www.postgresql.org/docs/
-
-Documentación de PGAdmin: https://www.pgadmin.org/docs/
 
 Tutoriales de APIs REST con Java.
 ## 8. Procedimiento  
