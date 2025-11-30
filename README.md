@@ -166,9 +166,3 @@ Hightower, K., Burns, B., & Beda, J. (2017). Kubernetes: Up & Running. O’Reill
 
 Explica conceptos de contenedores y cómo se integran en entornos productivos, útil para entender multi-stage builds y despliegues.
 
-Turnbull, J. (2018). The Docker Book: Containerization is the new virtualization.
-
-Guía práctica de Docker, construcción de imágenes y multi-stage builds.
-Documentación oficial de Nginx, consultada para servir aplicaciones estáticas y configurar el servidor dentro de Docker.
-
-DavidDotComs. (2025). Repositorio Suda Frontend S6. GitHub. Disponible en:
